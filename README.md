@@ -2,7 +2,7 @@
 
 This folder contains a streamlit app which can be used to combine different parameters and assess the models performance on the validation data.
 
-**This part of the project is deprecated since the generation of a robust labeling set turned out to not be feasible due to ressource constraints but also due to the structure of the problem. For documentation reasons this subproject is kept in the repository.**
+**This part of the project is deprecated since the generation of a robust labeling set turned out to not be feasible due to ressource constraints but also due to the structure of the problem. For documentation reasons this subproject is kept in the repository. Go to our [main repository](https://github.com/bizres) to read up on our project.**
 
 ## About the model, training and testing data
 
